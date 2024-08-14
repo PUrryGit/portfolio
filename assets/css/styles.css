@@ -21,7 +21,7 @@ body, html {
   min-height: 100%; }
 
 .commandioimg-1 {
-  background-image: url("../images/commandio-output.png");
+  background-image: url("../images/commandio-output.PNG");
   background-repeat: no-repeat;
   min-height: 850px;
   width: 725px; }
