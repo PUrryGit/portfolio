@@ -13,7 +13,7 @@ body, html {
 
 /* Create a Parallax Effect */
 .bgimg-1 {
-  background-image: url("assets/images/parallax1.jpg");
+  background-image: url("../images/parallax1.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body, html {
   min-height: 100%; }
 
 .commandioimg-1 {
-  background-image: url("assets/images/commandio-output.png");
+  background-image: url("../images/commandio-output.png");
   background-repeat: no-repeat;
   min-height: 850px;
   width: 725px; }
